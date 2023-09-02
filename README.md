@@ -1,12 +1,12 @@
 ### Hi there 👋
 ```
-I'm Web Developer, Han.😁
+I'm Software Developer, Han.😁
 
-I always interested in Clean Code and Object-oriented programming.✨
+Interested in Clean Code and Object-oriented programming.✨
 
-I'm trying to study steadily.📈
+Keeping a steady pace on studying.📈
 
-Thank you for coming here.🙏
+Thank you for visiting.🙏
 ```
 - 🔭 I’m currently working building an ecommerce
 - 🌱 I’m currently learning BackEnd (Spring, FastApi)
