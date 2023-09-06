@@ -2,14 +2,14 @@
 ```
 I'm Software Developer, Han.😁
 
-Interested in Clean Code and Object-oriented programming.✨
+Interested in clean code and object-oriented programming.✨
 
 Keeping a steady pace on studying.📈
 
 Thank you for visiting.🙏
 ```
 - 🔭 I’m currently working building an ecommerce
-- 🌱 I’m currently learning BackEnd (Spring, FastApi)
+- 🌱 I’m currently learning Backend (Spring Boot, FastApi)
 - 👯 I’m looking to collaborate on projects which helps us to make our lives more efficient
 - 📫 How to reach me: tjwjdgks43@naver.com
 
